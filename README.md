@@ -1,58 +1,40 @@
-# 🧅 My Onion Site (FOSS)
+🧅 My Onion Site (Archived)
 
-This repository contains the source code for my **Onion (Tor) website**.  
-The project is **free and open-source** and is currently **a work in progress**.
+⚠️ This repository is archived and no longer receiving updates.
 
-It also includes a very simple way to host your own Onion website with **no complex setup**.
+Development of this project has moved to a newer, actively maintained repository.
 
----
+👉 New repository:
+https://github.com/AirgPlays/Onion-Site-V2
 
-## 🚀 Features
-- Simple static Onion website
-- Beginner-friendly hosting method
-- Fully open-source (FOSS)
-- Easy to modify and customize
+📦 About This Repository
 
----
+This repository contains the original codebase for my Onion (Tor) website.
+It is preserved for reference and historical purposes only.
 
-## 🌐 How to Host the Onion Site
+No new features, fixes, or updates will be added here.
 
-1. Download and install **OnionShare**  
-   👉 https://onionshare.org
+🚀 Looking for the Updated Version?
 
-2. Open OnionShare and select **“Host a Website”**
+The modernized and actively developed version of this project can be found here:
 
-3. Paste or select this project’s folder
+➡️ Onion Site V2
+https://github.com/AirgPlays/Onion-Site-V2
 
-4. Start hosting 🚀  
-   OnionShare will generate a `.onion` link for you to share with friends
+The new repository includes:
 
-That’s it — your Onion site is live!
+Updated structure and code
 
----
+Ongoing improvements
 
-## 🛠 Editing the Website Code
+Continued support and development
 
-If you want to edit or customize the site:
+📜 License
 
-- Use a code editor like **Visual Studio Code** (recommended)
-- Download VS Code here:  
-  👉 https://code.visualstudio.com/
+This project remains Free and Open-Source Software (FOSS).
+You are free to view, fork, or reference this code, but it is no longer maintained.
 
-Open the project folder in VS Code and edit the HTML, CSS, or other files as needed.
+🗃️ Archive Status
 
----
-
-## 📌 Project Status
-⚠️ **Not finished yet** — more updates and features will be added over time.
-
----
-
-## 📜 License
-This project is released as **Free and Open-Source Software (FOSS)**.  
-Feel free to fork, modify, and improve it.
-
----
-
-## ⭐ Support
-If you like this project, consider giving it a ⭐ on GitHub!
+This repository has been archived intentionally to avoid confusion and duplicate development.
+Please use the V2 repository for all current and future work.
